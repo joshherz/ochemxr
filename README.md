@@ -20,29 +20,13 @@ SKIP TO [1.4.1. How to Run This Code](#141-how-to-run-this-code) if you're the T
 
 
 ## 1.3. Overview
-**What is React360?**
+**Why web?**
 
-React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
+Time-to-download/install can be a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
 
+Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
 
-
-**What is WebXR?**
-
-As a successor to the popular WebVR API, WebXR is an API currently in developement and a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others.  
-
-It supports both VR and AR experiences on the web. Development is HTML syntax heavy and does not require as much in-depth knowledge in Javascript as React360. May be friendlier to those new to web development.
-
-
-
-**Which one should a web developer interested in VR and AR use?**
-
-While OchemXR.com uses a bit of both, most developers choose to use WebXR for ability to support complex applications, 6DOF, and AR. Others choose to use React360 as it has been around longer and is familar for React developers. 
-
-But both are a means to an end to support XR experiences on the web. 
-
-
-
-**But...why? VR's dead.**
+**But...why VR?**
 
 I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the benefit beyond games (though don't get me wrong- I do love me some BeatSaber gaming seshes.) The applications are exciting and endless...
 - AR-assisted surgeries
@@ -53,18 +37,31 @@ I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the be
 I also want to be a WebDev when I graduate. Unfortunately, I didn't realize this until senior year of my Chem degree at UCSB. With it being too late to switch to the CompSci major, I'm teaching myself how to program virtual reality experiences and fullstack websites. 
 
 
-
 **Cool story bro. But I didn't need to read your whole autobiography. What does this program do?** 
 
 Well... it explores the benefits and drawbacks of utilizing Facebook's framework, React360. It also demonstrates how XR platforms on the web may serve as a great alternative (but not replacement) for convential webpages.
 
 
+**What is React360?**
 
-**Why web?**
+React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
 
-Time-to-download/install can be a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
 
-Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
+**What is WebXR?**
+
+As a successor to the popular WebVR API, WebXR is an API currently in developement and a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others.  
+
+It supports both VR and AR experiences on the web. Development is HTML syntax heavy and does not require as much in-depth knowledge in Javascript as React360. May be friendlier to those new to web development.
+
+
+**Which one should a web developer interested in VR and AR use?**
+
+While OchemXR.com uses a bit of both, most developers choose to use WebXR for ability to support complex applications, 6DOF, and AR. Others choose to use React360 as it has been around longer and is familar for React developers. 
+
+But both are a means to an end to support XR experiences on the web. 
+
+
+
 
 
 
