@@ -20,19 +20,19 @@ SKIP TO [1.4.1. How to Run This Code](#141-how-to-run-this-code) if you're the T
 
 
 ## 1.3. Overview
-*What is React360?* 
+**What is React360?**
 
 React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
 
 
-*What is WebXR?*
+**What is WebXR?**
 
 As a successor to the popular WebVR API, WebXR is an API currently in developement and a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others.  
 
 It supports both VR and AR experiences on the web. Development is HTML syntax heavy and does not require as much in-depth knowledge in Javascript as React360. May be friendlier to those new to web development.
 
 
-*Which one should a web developer interested in VR and AR use?*
+**Which one should a web developer interested in VR and AR use?**
 
 While OchemXR.com uses a bit of both, most developers choose to use WebXR for ability to support complex applications, 6DOF, and AR. Others choose to use React360 as it has been around longer and is familar for React developers. 
 
