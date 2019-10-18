@@ -1,5 +1,5 @@
 # 1. OchemXR
->A VR/AR (also known collectively as XR) website utilizing the WebXR Device API and Facebook's framework, React360. This project provides an engaging way to learn organic chemistry. Very handy for chemistry students with a shamefully short attention span (like me.)
+>A VR/AR (also known collectively as XR) website utilizing the WebXR Device API as well as Facebook's separate, independent framework, React360. This project provides an engaging way to learn organic chemistry. Very handy for chemistry students with a shamefully short attention span (like me.)
 
 ![](oChemXrMoleculeModelGif.gif)
 
