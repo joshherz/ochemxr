@@ -1,15 +1,18 @@
 # 1. OchemXR
 >A VR/AR (also known collectively as XR) website for learning organic chemistry using the WebXR Device API and Facebook's framework React360. This project serves to provide an engaging way to learn organic chemistry for those who have a shamefully short-attention span (AKA me.) 
 
+SKIP TO [1.3.1. How to run this code](#131-how-to-run-this-code) if you're a TL;DR type of guy like me.
+
 *What is React360?* 
 
-React360 is Facebook's framework for supporting VR experiences on the web.
+React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
 
 *What is WebXR?*
 
-Meanwhile, the WebXR Device API is a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others. 
+The WebXR Device API is a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others. A successor to the popular WebVR API, WebXR is an API currently in developement. It supports both VR and AR experiences on the web using ThreeJS. Development is HTML syntax heavy and does not require as much in-depth knowledge in JS as React360. May be friendlier to those new to web development.
 
-While oChemXR.com uses a bit of both, most developers choose to use WebXR and others choose to use React360. But both are a means to an end to support XR experiences on the web.
+*Which one should a web developer interested in VR and AR use?*
+While OchemXR.com uses a bit of both, most developers choose to use WebXR and others choose to use React360. But both are a means to an end to support XR experiences on the web.
 
 **An oChemXR AR experience**
  
@@ -18,7 +21,7 @@ While oChemXR.com uses a bit of both, most developers choose to use WebXR and ot
 **An oChemXR VR experience**
 _Placeholder for oChemXR VR experience VR gif_
 ## 1.1. Overview 
-SKIP TO [1.3.1. How to run this code](#131-how-to-run-this-code) if you're a TL;DR type of guy (like me)
+
 
 **But...why? VR's dead.**
 I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the benefit beyond games (though don't get me wrong- I do love me some BeatSaber gaming seshes.) The applications are exciting and endless...
