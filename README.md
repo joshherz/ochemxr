@@ -59,7 +59,7 @@ I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the be
 - walking clients throuch 3D architectural designs before their building's even built
 - etc, etc, etc... 
 
-I also want to be a WebDev when I graduate. Just sucks I didn't realize it until senior year of my Chem degree at UCSB. With it being too late to switch to the CompSci major, I'm teaching myself how to program virtual reality experiences and fullstack websites. 
+I also want to be a WebDev when I graduate. Unfortunately, I didn't realize this until senior year of my Chem degree at UCSB. With it being too late to switch to the CompSci major, I'm teaching myself how to program virtual reality experiences and fullstack websites. 
 
 
 
