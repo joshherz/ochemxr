@@ -9,7 +9,8 @@ While oChemXR.com uses a bit of both, most developers choose to use WebXR and ot
 
 But both are a means to an end to support XR experiences on the web.
 
-An oChemXR AR experience 
+An oChemXR AR experience
+ 
 ![](oChemXrMoleculeModelGif.gif)
 
 An oChemXR VR experience
