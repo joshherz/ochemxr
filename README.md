@@ -1,19 +1,19 @@
 # 1. OchemXR
-> What's oChemXR.com? 
-A VR/AR (also known collectively as XR) website for learning organic chemistry using the WebXR Device API and Facebook's framework React360. This project serves to provide an engaging way to learn organic chemistry for those who have a shamefully short-attention span (AKA me.) 
+>A VR/AR (also known collectively as XR) website for learning organic chemistry using the WebXR Device API and Facebook's framework React360. This project serves to provide an engaging way to learn organic chemistry for those who have a shamefully short-attention span (AKA me.) 
 
->React360 is Facebook's framework for supporting VR experiences on the web.
+*What is React360?* 
+React360 is Facebook's framework for supporting VR experiences on the web.
+
+*What is WebXR?*
 Meanwhile, the WebXR Device API is a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others. 
 
->While oChemXR.com uses a bit of both, most developers choose to use WebXR and others choose to use React360.
+While oChemXR.com uses a bit of both, most developers choose to use WebXR and others choose to use React360. But both are a means to an end to support XR experiences on the web.
 
->But both are a means to an end to support XR experiences on the web.
-
-> An oChemXR AR experience
+**An oChemXR AR experience**
  
 > ![](oChemXrMoleculeModelGif.gif)
 
-An oChemXR VR experience
+**An oChemXR VR experience**
 _Placeholder for oChemXR VR experience VR gif_
 ## 1.1. Overview 
 SKIP TO [1.3.1. How to run this code](#131-how-to-run-this-code) if you're a TL;DR type of guy (like me)
