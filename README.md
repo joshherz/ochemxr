@@ -1,9 +1,9 @@
 # 1. OchemXR
->A VR/AR (also known collectively as XR) website for learning organic chemistry using the WebXR Device API and Facebook's framework React360. This project serves to provide an engaging way to learn organic chemistry for those who have a shamefully short-attention span (AKA me.) 
+>A VR/AR (also known collectively as XR) website utilizing the WebXR Device API and Facebook's framework, React360. This project provides an engaging way to learn organic chemistry. Very handy for chemistry students with a shamefully short attention span (like me.)
 
 ![](oChemXrMoleculeModelGif.gif)
 
-SKIP TO [1.4.1. How to run this code](#141-how-to-run-this-code) if you're a TL;DR type of guy like me.
+SKIP TO [1.4.1. How to Run This Code](#141-how-to-run-this-code) if you're the TL;DR type.
 
 ## 1.2. Table of Contents
 <!-- TOC -->
@@ -24,23 +24,31 @@ SKIP TO [1.4.1. How to run this code](#141-how-to-run-this-code) if you're a TL;
 
 React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
 
+
 *What is WebXR?*
 
-The WebXR Device API is a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others. A successor to the popular WebVR API, WebXR is an API currently in developement. It supports both VR and AR experiences on the web using ThreeJS. Development is HTML syntax heavy and does not require as much in-depth knowledge in JS as React360. May be friendlier to those new to web development.
+As a successor to the popular WebVR API, WebXR is an API currently in developement and a product of the Immersive Web Community Group which has contributors from Google, Microsoft, Mozilla, and others.  
+
+It supports both VR and AR experiences on the web. Development is HTML syntax heavy and does not require as much in-depth knowledge in Javascript as React360. May be friendlier to those new to web development.
+
 
 *Which one should a web developer interested in VR and AR use?*
-While OchemXR.com uses a bit of both, most developers choose to use WebXR and others choose to use React360. But both are a means to an end to support XR experiences on the web.
+
+While OchemXR.com uses a bit of both, most developers choose to use WebXR for ability to support complex applications, 6DOF, and AR. Others choose to use React360 as it has been around longer and is familar for React developers. 
+
+But both are a means to an end to support XR experiences on the web. 
 
 **An oChemXR AR experience**
  
 > ![](oChemXrMoleculeModelGif.gif)
 
 **An oChemXR VR experience**
+
 _Placeholder for oChemXR VR experience VR gif_
-## 1.1. Overview 
 
 
 **But...why? VR's dead.**
+
 I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the benefit beyond games (though don't get me wrong- I do love me some BeatSaber gaming seshes.) The applications are exciting and endless...
 - AR-assisted surgeries
 - molecular and protein visualization for designing new medications
@@ -50,9 +58,12 @@ I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the be
 I also want to be a WebDev when I graduate. Just sucks I didn't realize it until senior year of my Chem degree at UCSB. With it being too late to switch to the CompSci major, I'm teaching myself how to program virtual reality experiences and fullstack websites. 
 
 **Cool story bro. But I didn't need to read your whole autobiography. What does this program do?** 
+
 Well... it explores the benefits and drawbacks of utilizing Facebook's framework, React360. It also demonstrates how XR platforms on the web may serve as a great alternative (but not replacement) for convential webpages.
 
+
 **Why web? Why not just use Unity or UnrealEngine?**
+
 Don't get me wrong, 3D game engines like Unity and UnrealEngine are GREAT. They're powerful and the go-to for designing XR games and experiences. 
 
 XR websites like oChemXR.com will NEVER replace downloadable apps. The success of the Apple App Store, Oculus Store, Steam Marketplace, and Google Play Store have all shown that even after the .com boom, downloadable apps will always have their place in consumer technologies for years to come.
@@ -70,9 +81,9 @@ Websites can also be designed to be cross-platform. For example, OChemXr.com can
 
 ## 1.4. Usage
 
-> See below
+To run this code locally, follow the steps below.
 
-### 1.4.1. How to run this code
+### 1.4.1. How to Run This Code
 1. Make sure you have Node installed for the npm commands you will run in step 4. (For installation, see https://nodejs.org/en/)
 2. Make sure MongoDB is running locally (For installation and running MongoDB, see https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#run-mongodb)
 3. Clone this repo
@@ -93,9 +104,9 @@ Websites can also be designed to be cross-platform. For example, OChemXr.com can
   - removes entry with specified id from database
 
 
-### 1.4.3. Requirements
+### 1.4.3. Dependency Requirements
 - Node 6.13.0
-These dependencies/libraries/frameworks will install in your node_modules folder when you "npm install"
+These dependencies will be added to your auto-created node_modules folder when you run "npm install" command in your cloned folder in the terminal 
 - React
 - React-DOM
 - React360 framework
