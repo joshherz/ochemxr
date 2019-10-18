@@ -42,15 +42,6 @@ But both are a means to an end to support XR experiences on the web.
 
 
 
-**An oChemXR AR experience**
- 
-> ![](oChemXrMoleculeModelGif.gif)
-
-**An oChemXR VR experience**
-
-_Placeholder for oChemXR VR experience VR gif_
-
-
 **But...why? VR's dead.**
 
 I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the benefit beyond games (though don't get me wrong- I do love me some BeatSaber gaming seshes.) The applications are exciting and endless...
