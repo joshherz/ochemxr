@@ -77,21 +77,6 @@ Websites can also be designed to be cross-platform. For example, OChemXr.com can
 
 
 
-***Why not just use Unity or UnrealEngine?**
-Don't get me wrong, 3D game engines like Unity and UnrealEngine are great. They're powerful and the go-to for designing XR games and experiences. 
-
-XR websites like oChemXR.com will NEVER replace the powerful, full-fledged apps downloadable from the Oculus Store or Steam Marketplace. The success of the Apple App Store, Oculus Store, Steam Marketplace, and Google Play Store have all shown that even after the .com boom, downloadable apps will always have their place in consumer technologies for years to come.
-
-But browser-based devices like the ChromeBook and popular web-apps like Google Docs, Youtube, Facebook, and Twitter showcase the value in webapps.
-
-WebXR apps tackle 2 major barriers-to-entry holding back VR from going mainstream:
-1. Time-to-download/install
-2. Cost
-
-Whether its a psychological or physical barrier (data caps/limited local storage), the time-to-download can stop a potential end-user from trying out an app. Moreso, the cost of buying a $1000 VR-capable PC PLUS a $400 VR/AR headset can be too overwhelming of an investment for some (at least, it sure is for my broke, college-student self.)
-
-
-
 ## 1.4. Usage
 
 To run this code locally, follow the steps below.
