@@ -1,8 +1,25 @@
 # 1. OchemXR
 >A VR/AR (also known collectively as XR) website for learning organic chemistry using the WebXR Device API and Facebook's framework React360. This project serves to provide an engaging way to learn organic chemistry for those who have a shamefully short-attention span (AKA me.) 
 
-SKIP TO [1.3.1. How to run this code](#131-how-to-run-this-code) if you're a TL;DR type of guy like me.
+![](oChemXrMoleculeModelGif.gif)
 
+SKIP TO [1.4.1. How to run this code](#141-how-to-run-this-code) if you're a TL;DR type of guy like me.
+
+## 1.2. Table of Contents
+<!-- TOC -->
+- [1. OchemXR](#1-OchemXR)
+  - [1.2. Table of Contents](#12-table-of-contents)
+  - [1.3. Overview](#Overview)
+  - [1.4. Usage](#13-usage)
+    - [1.4.1. API endpoints](#131-api-endpoints)
+    - [1.4.2. Component](#132-component)
+  - [1.4. Development Setup](#14-development-setup)
+  - [1.5. Development Setup](#14-development-setup)
+3. [Development](#development)
+<!-- /TOC -->
+
+
+## 1.3. Overview
 *What is React360?* 
 
 React360 is Facebook's framework for supporting VR experiences on the web. React360 development is Javascript syntax heavy.
@@ -51,19 +68,11 @@ But that still leaves time-to-download/install as a barrier-to-entry for downloa
 Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
 
 
-
-
-## 1.2. Table of Contents
-<!-- TOC -->
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-<!-- /TOC -->
-## 1.3. Usage
+## 1.4. Usage
 
 > See below
 
-### 1.3.1. How to run this code
+### 1.4.1. How to run this code
 1. Make sure you have Node installed for the npm commands you will run in step 4. (For installation, see https://nodejs.org/en/)
 2. Make sure MongoDB is running locally (For installation and running MongoDB, see https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#run-mongodb)
 3. Clone this repo
@@ -73,7 +82,7 @@ Websites can also be designed to be cross-platform. For example, OChemXr.com can
    - To run this app for development, run ```  npm run dev  ```
 5. Open [localhost:8081](http://localhost:8081/) in the browser
 
-### 1.3.2. API endpoints
+### 1.4.2. API endpoints
 - `GET ______` 
   - returns data from entry with specified id
 - `POST ________` 
@@ -84,7 +93,7 @@ Websites can also be designed to be cross-platform. For example, OChemXr.com can
   - removes entry with specified id from database
 
 
-### 1.3.3. Requirements
+### 1.4.3. Requirements
 - Node 6.13.0
 These dependencies/libraries/frameworks will install in your node_modules folder when you "npm install"
 - React
