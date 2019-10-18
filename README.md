@@ -63,6 +63,10 @@ Well... it explores the benefits and drawbacks of utilizing Facebook's framework
 
 
 **Why web? Why not just use Unity or UnrealEngine?**
+Time-to-download/install can be a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
+
+Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
+
 
 Don't get me wrong, 3D game engines like Unity and UnrealEngine are GREAT. They're powerful and the go-to for designing XR games and experiences. 
 
@@ -70,13 +74,15 @@ XR websites like oChemXR.com will NEVER replace downloadable apps. The success o
 
 But browser-based devices like the ChromeBook and popular web-apps like Google Docs, Youtube, Facebook, and Twitter showcase the value in webapps.
 
-For downloadable VR apps, time-to-download/install and cost are 2 major barriers-to-entry holding back VR from going mainstream. Whether its a psychological or physical barrier (think data caps/limited local storage), the time-to-download can stop a potential end-user from trying out your app. Not to mention the cost of buying a $1000 VR-capable PC PLUS a $400 VR/AR headset can be too overwhelming of an investment for some (at least, it sure is for my broke, college-student self.)
+WebXR apps attack 2 major barriers-to-entry holding back VR from going mainstream
+1. Time-to-Download/Install
+2. Cost
+
+Whether its a psychological or physical barrier (think data caps/limited local storage), the time-to-download can stop a potential end-user from trying out your app. 
+
+Plus, the cost of buying a $1000 VR-capable PC PLUS a $400 VR/AR headset can be too overwhelming of an investment for some (at least, it sure is for my broke, college-student self.)
 
 Luckily, recent stand-alone VR headsets like the Oculus Quest at $400 and AR headsets like the Hololens 2 at $3500 (yikes) cut out the cost of a PC.
-
-But that still leaves time-to-download/install as a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
-
-Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
 
 
 ## 1.4. Usage
