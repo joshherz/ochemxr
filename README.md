@@ -15,16 +15,16 @@ SKIP TO [1.4.1. How to Run This Code](#141-how-to-run-this-code) if you're the T
     - [1.4.2. Component](#132-component)
   - [1.4. Development Setup](#14-development-setup)
   - [1.5. Development Setup](#14-development-setup)
-3. [Development](#development)
+- [2. Development Log](#development)
 <!-- /TOC -->
 
 
 ## 1.3. Overview
 **Why web?**
 
-Time-to-download/install can be a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
+Download/Install time can be a barrier-to-entry for downloadable apps. Meanwhile, websites are immediately accessible to the user. Plus, updates can be pushed instantly. 
 
-Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browswer, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
+Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browser, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
 
 **But...why VR?**
 
@@ -39,7 +39,7 @@ I also want to be a WebDev when I graduate. Unfortunately, I didn't realize this
 
 **Cool story bro. But I didn't need to read your whole autobiography. What does this program do?** 
 
-Well... it explores the benefits and drawbacks of utilizing Facebook's framework, React360. It also demonstrates how XR platforms on the web may serve as a great alternative (but not replacement) for convential webpages.
+OchemXR explores the benefits and drawbacks of utilizing Facebook's framework, React360. It also demonstrates how XR platforms on the web may serve as a great alternative (but not replacement) for convential webpages.
 
 
 **What is React360?**
