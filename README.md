@@ -26,7 +26,7 @@ Download/Install time can be a barrier-to-entry for downloadable apps. Meanwhile
 
 Websites can also be designed to be cross-platform. For example, OChemXr.com can be opened in any browser, from the Oculus VR browser on your shiny, new Oculus Quest... to Mobile Chrome on your smartphone. 
 
-**But...why VR?**
+**Why VR?**
 
 I LOVE Virtual Reality and Augmented Reality. I just wish more people saw the benefit beyond games (though don't get me wrong- I do love me some BeatSaber gaming seshes.) The applications are exciting and endless...
 - AR-assisted surgeries
